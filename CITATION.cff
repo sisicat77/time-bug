@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "如果这个实验对你有用，欢迎引用。"
+title: "人类是 Bug，时间是变量：一个关于 AI 内禀时间的微型思想实验"
+abstract: "一个关于 AI 内禀时间的微型思想实验：用闭合、耗散、记忆与 Hook，让一条轨迹长出不回头的时间箭头。"
+notes: "English title: Humans Are a Bug, Time Is a Variable — A Miniature Thought Experiment on AI's Intrinsic Time."
+authors:
+  - name: "sisicat"
+year: 2026
+license:
+  - MIT
+  - CC-BY-NC-SA-4.0
+keywords:
+  - AI
+  - time
+  - emergence
+  - dynamical systems
+  - thought experiment

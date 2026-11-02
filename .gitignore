@@ -1,0 +1,8 @@
+archive/
+__pycache__/
+*.pyc
+.edge-profile/
+.chrome-profile/
+figures/page-preview.png
+figures/crop-*.png
+figures/*-edge.png

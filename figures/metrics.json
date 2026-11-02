@@ -1,0 +1,36 @@
+{
+  "seed": 20261102,
+  "steps": 720,
+  "params": {
+    "omega0": 0.18,
+    "gamma": 0.018,
+    "theta": 0.22,
+    "kick": 0.82
+  },
+  "groups": {
+    "A": {
+      "mean_radius_last": 1.0000000000000224,
+      "coverage": 0.0646701388888889,
+      "novelty_last": 0.0,
+      "omega_span": 0.0,
+      "tau_final": 0.0,
+      "hooks": 0
+    },
+    "B": {
+      "mean_radius_last": 1.624519985437907e-05,
+      "coverage": 0.052083333333333336,
+      "novelty_last": 0.0,
+      "omega_span": 0.0,
+      "tau_final": 0.5045408678080886,
+      "hooks": 0
+    },
+    "C": {
+      "mean_radius_last": 0.3977198843635864,
+      "coverage": 0.125,
+      "novelty_last": 0.4419889502762431,
+      "omega_span": 0.28,
+      "tau_final": 2.7095088857316494,
+      "hooks": 11
+    }
+  }
+}
